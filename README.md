@@ -6,7 +6,7 @@ Demo: [link](http://goo.gl/WoBChD)
 
 ### User Interface
 ![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER01.png "Sign_in")
-![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Srceen_shots/BAKER02.png "Projects")
+![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER02.png "Projects")
 ![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Srceen_shots/BAKER03.png "Project overview")
 ![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Srceen_shots/BAKER04.png "Project Dashboard")
 ![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Srceen_shots/BAKER05.png "Financial Dashboard")
