@@ -5,4 +5,4 @@ Came up with online dashboard for better project management and interaction with
 Demo: [link](http://goo.gl/WoBChD)
 
 ### User Interface
-![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/upload/master/DEMO_Sceen_shots/BAKER09.png "Sign in")
+![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Sceen_shots/BAKER01.png "Sign in")
