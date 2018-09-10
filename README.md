@@ -25,6 +25,6 @@ Demo: [link](http://goo.gl/WoBChD)
 
 ![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER10.png "News digest 02")
 
-![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER011.png "News digest 03")
+![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER11.png "News digest 03")
 
-![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER012.png "Legal emergency")
+![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER12.png "Legal emergency")
