@@ -4,7 +4,7 @@
 Came up with online dashboard for better project management and interaction with client. 
 Demo: [link](http://goo.gl/WoBChD)
 
-Please do not copy my work without a permission and for a commercial use. 
+Please do not copy my work without a permission or for a commercial use. 
 
 ### User Interface
 ![alt text](https://github.com/eryndi/Hackathon-Baker-McKenzie/blob/master/DEMO_Screen_shots/BAKER01.png "Sign_in")
